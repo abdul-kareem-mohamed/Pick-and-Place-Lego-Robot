@@ -11,7 +11,7 @@ Manipulators, versatile systems designed for precise control and execution of ta
    4. Ultrasonic sensors
    5. Kinematic Limitations
 
-      In Figure 2.2, the manipulator comprises five links (Link-1 to Link-4), each with specified lengths. Link-1 and Link-2 are rigidly connected at an obtuse 135° angle, while Link-4 stays perpendicular 
+      In the below figure, the manipulator comprises five links (Link-1 to Link-4), each with specified lengths. Link-1 and Link-2 are rigidly connected at an obtuse 135° angle, while Link-4 stays perpendicular 
     to the ground.
 
 # Flow Chart for Code
